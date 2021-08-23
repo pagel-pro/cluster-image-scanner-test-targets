@@ -2,3 +2,4 @@
 "cluster-image-scanner-image-collector"
 "clusterscanner"
 "default"
+"wordpress"
