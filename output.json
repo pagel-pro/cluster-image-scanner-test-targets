@@ -1,28 +1,5 @@
 [
   {
-    "image": "quay.io/sdase/clusterscanner-scan-dependency-check:2",
-    "image_id": "quay.io/sdase/clusterscanner-scan-dependency-check@sha256:b97f07fdbb259f253d6ad45b5b0fabd45d1a5687ee2230533e73ba9cbfbcd6bf",
-    "email": "",
-    "slack": "#nobody-security",
-    "scm_source_url": null,
-    "scm_source_branch": null,
-    "scm_release": "2",
-    "skip": false,
-    "app_kubernetes_io_name": null,
-    "app_version": "2",
-    "team": "nobody",
-    "namespace": "clusterscanner",
-    "container_running_as": "TODO",
-    "environment": "minikube",
-    "is_scan_lifetime": "true",
-    "is_scan_baseimage_lifetime": "true",
-    "is_scan_distroless": "true",
-    "is_scan_malware": "false",
-    "is_scan_dependency_check": "true",
-    "is_scan_runasroot": "true",
-    "scan_lifetime_max_days": "20"
-  },
-  {
     "image": "quay.io/sdase/clusterscanner-workflow-runner:2",
     "image_id": "quay.io/sdase/clusterscanner-workflow-runner@sha256:9391cb91ae3c17e2780769f9c48fee3257ceb18dfc4b9c0800e2364bf7fd1e7b",
     "email": "",
