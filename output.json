@@ -1,7 +1,7 @@
 [
   {
     "image": "quay.io/sdase/clusterscanner-imagecollector:2.0",
-    "image_id": "quay.io/sdase/clusterscanner-imagecollector@sha256:ecee7e6fe740f27e319dae27155c92604d90f10719d4891debe338c7ecc18e1c",
+    "image_id": "quay.io/sdase/clusterscanner-imagecollector@sha256:0506cfddcc2ac3df2128c42ea4f5034a2b62a4091165ffa0f53fcf7eb4e030f0",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
@@ -20,6 +20,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "20"
   },
   {
@@ -43,6 +44,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -66,6 +68,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "false",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "20"
   },
   {
@@ -89,6 +92,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -112,6 +116,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -135,6 +140,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -158,6 +164,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -181,6 +188,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -204,6 +212,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "20"
   },
   {
@@ -227,6 +236,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "20"
   },
   {
@@ -250,6 +260,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -273,6 +284,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "false",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "20"
   },
   {
@@ -296,6 +308,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -319,6 +332,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -342,6 +356,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -365,6 +380,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   },
   {
@@ -388,6 +404,7 @@
     "is_scan_malware": "false",
     "is_scan_dependency_check": "true",
     "is_scan_runasroot": "true",
+    "is_scan_new_version": "",
     "scan_lifetime_max_days": "90"
   }
 ]
