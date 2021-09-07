@@ -337,7 +337,7 @@
   },
   {
     "image": "mysql:5.6",
-    "image_id": "mysql@sha256:82ed63d45a770a8a980cbbd40735761d6594617a776f17e1a2dede45f815ae50",
+    "image_id": "mysql@sha256:35aa66157963240633625d6490d940069a1311fdfc022bf32116cbf95b90b541",
     "email": "",
     "slack": "#nobody-security",
     "scm_source_url": null,
@@ -360,15 +360,15 @@
     "scan_lifetime_max_days": "20"
   },
   {
-    "image": "quay.io/sdase/clusterscanner-imagecollector:2.0",
-    "image_id": "quay.io/sdase/clusterscanner-imagecollector@sha256:080e658deaf9d5b0fe65768d9aa5be20f07aa88c87075c64aa22732ec153bdd8",
+    "image": "quay.io/sdase/cluster-image-scanner-imagecollector:2.0",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:ad4c64687abf0fb5f2b4a5877014fb7d79f456f3ad031e945493f6c4bdc9ab77",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
     "scm_source_branch": null,
     "scm_release": "2.0",
     "skip": false,
-    "app_kubernetes_io_name": "quay.io/sdase/clusterscanner-imagecollector:2.0",
+    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-imagecollector:2.0",
     "app_version": "2.0",
     "team": "security-journey",
     "namespace": "cluster-image-scanner-image-collector",
