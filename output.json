@@ -456,15 +456,15 @@
     "scan_lifetime_max_days": "20"
   },
   {
-    "image": "quay.io/sdase/cluster-image-scanner-scan-malware:2",
-    "image_id": "quay.io/sdase/cluster-image-scanner-scan-malware@sha256:440fb69dfc86ef711119651e822d62674d09dc7cbd4e71dc4bb6352d53f5a3dd",
+    "image": "quay.io/sdase/cluster-image-scanner-scan-runasroot:2",
+    "image_id": "quay.io/sdase/cluster-image-scanner-scan-runasroot@sha256:85c8e91830f319cbb7ee88d2f89d62a325720d45250e345111fa66d0e55d2bf0",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
     "scm_source_branch": null,
     "scm_release": "2",
     "skip": false,
-    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-scan-malware:2",
+    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-scan-runasroot:2",
     "app_version": "2",
     "team": "security-journey",
     "namespace": "clusterscanner",
