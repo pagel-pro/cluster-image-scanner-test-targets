@@ -1,5 +1,6 @@
 "Missing description on namespace:"
 "cluster-image-scanner-image-collector"
 "default"
+"istio-system"
 "opa-istio"
 "wordpress"
