@@ -385,7 +385,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-imagecollector:2.0",
-    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:8b2d9b7a53a0459399d7ff9f4774bd8936825886d45e80dd28aa90f62366fabb",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:919c38aa821846d333a1a5d7ac6efd1749e11416b399defa71b7dda48e55a237",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
@@ -408,15 +408,15 @@
     "scan_lifetime_max_days": "20"
   },
   {
-    "image": "quay.io/sdase/cluster-image-scanner-notifier:2",
-    "image_id": "quay.io/sdase/cluster-image-scanner-notifier@sha256:f7807630e04fbcbc06ffa84154b03e34f8784af278136382bdc5e22e4055aa62",
+    "image": "quay.io/sdase/cluster-image-scanner-workflow-runner:2",
+    "image_id": "quay.io/sdase/cluster-image-scanner-workflow-runner@sha256:c5f3176e867c73f7cc488326092dbdc2d54de19ac8f9cfb0fb311b4a5b36fc4a",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
     "scm_source_branch": null,
     "scm_release": "2",
     "skip": false,
-    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-notifier",
+    "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-workflow-runner",
     "app_version": "2",
     "team": "security-journey",
     "namespace": "clusterscanner",
