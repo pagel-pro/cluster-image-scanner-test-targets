@@ -313,7 +313,7 @@
   },
   {
     "image": "quay.io/argoproj/argocli:latest",
-    "image_id": "quay.io/argoproj/argocli@sha256:de57751422dcc8aee0b870ac719e438a0e0c99c15195037bbc51e077ef843ac6",
+    "image_id": "quay.io/argoproj/argocli@sha256:f06041c34c2ec1fc758322f45d8309df7c182d1b96b96331a2db25cc82bf2c76",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
@@ -337,7 +337,7 @@
   },
   {
     "image": "quay.io/argoproj/workflow-controller:latest",
-    "image_id": "quay.io/argoproj/workflow-controller@sha256:445bf6bf158be71ada4522216187eacf50d88b9a18960ec0447e5aae4170d544",
+    "image_id": "quay.io/argoproj/workflow-controller@sha256:b6908c82188c424e43a852d5e5aa7e7a92f88d62893fe09340f4415cc56c6da5",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
@@ -360,16 +360,16 @@
     "scan_lifetime_max_days": "20"
   },
   {
-    "image": "quay.io/sdase/cluster-image-scanner-imagecollector:2",
-    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:e0e2f0c758aae526699d6349e8a0e7c29cf518d0ea71ab6833409904916ea21b",
+    "image": "quay.io/sdase/cluster-image-scanner-imagecollector:2.0",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:c613c46fa79ea48eae9447bee36fb4fbabdc29cf99bc987936a2a0ecb594b82f",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
     "scm_source_branch": null,
-    "scm_release": "2",
+    "scm_release": "2.0",
     "skip": false,
     "app_kubernetes_io_name": "quay.io/sdase/cluster-image-scanner-imagecollector",
-    "app_version": "2",
+    "app_version": "2.0",
     "team": "security-journey",
     "namespace": "cluster-image-scanner-image-collector",
     "container_running_as": "TODO",
