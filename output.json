@@ -451,7 +451,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-imagecollector:2.0",
-    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:13d408a5f1378e50f44e9a0621c5065faf4ba5d293c13eff0c2af889697d4c37",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:490db8ed855b0fa00daaaaa1dd0ac57c7dcf755e1e139d4a8f307d57de60aa92",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
