@@ -51,7 +51,7 @@
   },
   {
     "image": "ghcr.io/dexidp/dex:v2.30.2",
-    "image_id": "",
+    "image_id": "ghcr.io/dexidp/dex@sha256:27cf2e8644f2ea1ebc6de711b0ace4b5ee2d1f442e148eabbaa8c68308062475",
     "email": "",
     "slack": "#security-notifications-test",
     "scm_source_url": null,
@@ -276,7 +276,7 @@
   },
   {
     "image": "quay.io/argoproj/argocd-applicationset:v0.4.1",
-    "image_id": "",
+    "image_id": "quay.io/argoproj/argocd-applicationset@sha256:7433ff9dc5f4fccf13f71be514982740f32cd31707734ce8934f149d26163590",
     "email": "",
     "slack": "#security-notifications-test",
     "scm_source_url": null,
@@ -326,7 +326,7 @@
   },
   {
     "image": "quay.io/argoproj/argocd:v2.3.4",
-    "image_id": "",
+    "image_id": "quay.io/argoproj/argocd@sha256:85d55980e70f8f7073e4ce529a7bbcf6d55e51f8a7fc4b45d698f0a7ffef0fea",
     "email": "",
     "slack": "#security-notifications-test",
     "scm_source_url": null,
@@ -376,7 +376,7 @@
   },
   {
     "image": "quay.io/argoproj/argocd:v2.3.4",
-    "image_id": "",
+    "image_id": "quay.io/argoproj/argocd@sha256:85d55980e70f8f7073e4ce529a7bbcf6d55e51f8a7fc4b45d698f0a7ffef0fea",
     "email": "",
     "slack": "#security-notifications-test",
     "scm_source_url": null,
