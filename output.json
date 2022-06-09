@@ -476,7 +476,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-image-source-fetcher:2",
-    "image_id": "quay.io/sdase/cluster-image-scanner-image-source-fetcher@sha256:ec085a9051a7dc63362faaed3a97ccd81333686066e3caf36fd8e53ee025bb12",
+    "image_id": "quay.io/sdase/cluster-image-scanner-image-source-fetcher@sha256:a50d20b973c214a908da5c7eb3d58675e0c8b19ad1ad107e564897529fb78fcf",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
@@ -501,7 +501,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-imagecollector:2.0",
-    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:da8d72d3e41f375fe5b9d4e963af9caa986736a7975a51558172c1cc4b8b015b",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:8fb8d4cd96108ba2b29baae70a8d41ff3eb4a4bea4cfb102b09f6966a041ceee",
     "email": "",
     "slack": "#security-journey-security",
     "scm_source_url": null,
