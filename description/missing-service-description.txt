@@ -1,3 +1,5 @@
 "Missing description on namespace:"
 "cluster-image-scanner-image-collector"
 "default"
+"minio-operator"
+"shire"
