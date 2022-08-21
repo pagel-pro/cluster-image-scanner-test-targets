@@ -460,7 +460,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-imagecollector:featcollector-test",
-    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:6a1eb9c1939bfa087e598a9ab4c1e5cf38b9c685a0f61ac31d42dcad88e95466",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:d4331738bc882af97bf0705f9c016b4bc21d61d6e0cb292536e9598ce4c92741",
     "email": "",
     "slack": "",
     "rocketchat": "null",
@@ -487,7 +487,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-test-image:featcollector-test",
-    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:cd7219375d8b32ef00c986dc87afe13513c13f4aa37c5b6069345337fc61c9be",
+    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:1f4b30ef5ab50c798da77f6649afb61d99f790795becfd87c3d7b6cb243621b6",
     "email": "",
     "slack": "",
     "rocketchat": "null",
@@ -505,7 +505,7 @@
     "is_scan_baseimage_lifetime": "true",
     "is_scan_distroless": "true",
     "is_scan_malware": "true",
-    "is_scan_dependency_check": "false",
+    "is_scan_dependency_check": "true",
     "is_scan_dependency_track": "false",
     "is_scan_runasroot": "true",
     "is_scan_new_version": "true",
