@@ -460,7 +460,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-imagecollector:featcollector-test",
-    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:f3cd63777fa0dd0c2bce8b9eacde389f0af743d41a8d60f5206be4423ea80c16",
+    "image_id": "quay.io/sdase/cluster-image-scanner-imagecollector@sha256:6a1eb9c1939bfa087e598a9ab4c1e5cf38b9c685a0f61ac31d42dcad88e95466",
     "email": "",
     "slack": "",
     "rocketchat": "null",
@@ -487,7 +487,7 @@
   },
   {
     "image": "quay.io/sdase/cluster-image-scanner-test-image:featcollector-test",
-    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:04740c007df8c87bb1bbe7aa45a48938dddf25593d6e38af55c8624c7b42291c",
+    "image_id": "quay.io/sdase/cluster-image-scanner-test-image@sha256:cd7219375d8b32ef00c986dc87afe13513c13f4aa37c5b6069345337fc61c9be",
     "email": "",
     "slack": "",
     "rocketchat": "null",
